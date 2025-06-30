@@ -6,7 +6,6 @@ Hey there! 👋 I'm Vikramaditya Pratap Singh, a Software Engineer with **2 year
 🔄 Currently, I'm leveling up for my next big adventure 🏔️ (a.k.a job switch). If you're looking for a passionate engineer who loves solving problems and geeking out over tech, you’ve found your match! 💼✨  
 
 ### 🔥 What I'm up to these days:
-- 🖋️ **Learning C++**: Building low-level projects because... why not live life a pointer at a time? 😉  
 - 🤖 **Exploring AI tools**: Working on AI-integrated projects because the machines aren't taking over (yet) 🤓.  
 - 📚 **Sharpening my DSA skills**: Turning data structures and algorithms into my second language 🧠💻.  
 
