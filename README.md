@@ -1,32 +1,58 @@
-# 💫 About Me:
-Hey there! 👋 I'm Vikramaditya Pratap Singh, a Software Engineer with **2 years of experience** building backend web solutions (a.k.a the mysterious pipes that keep the web running smoothly 🌐🚀).  
+# Hey, I'm Vikramaditya Pratap Singh
 
-🕵️‍♂️ I'm your typical "But how does it *really* work?" guy. I love tearing concepts apart and figuring out the nitty-gritty of how things tick 🛠️🔍.  
-
-🔄 Currently, I'm leveling up for my next big adventure 🏔️ (a.k.a job switch). If you're looking for a passionate engineer who loves solving problems and geeking out over tech, you’ve found your match! 💼✨  
-
-### 🔥 What I'm up to these days:
-- ☁️ **Learning Cloud**: Diving deep into cloud technologies to build scalable solutions 🚀
-- 🤖 **Exploring AI tools**: Working on AI-integrated projects because the machines aren't taking over (yet) 🤓.  
-- 📚 **Sharpening my DSA skills**: Turning data structures and algorithms into my second language 🧠💻.  
-
-Feel free to reach out or just say hi! Let’s build something awesome together. 🚀🎉
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikramadityaprsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramaditya-pratap-singh) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=d02ev&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=d02ev&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=d02ev&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=d02ev&theme=gotham&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=d02ev&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+**Backend Engineer** learning Agentic AI systems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=d02ev&icon=2&color=4)](https://visitcount.itsvg.in)
+
+## 🎯 Currently Focused On
+
+| Area | What |
+|:-----|:-----|
+| DSA & System Design | Sharpening problem-solving and systems thinking |
+| Agentic AI Systems & Tools | Building toward the agentic future |
+| Cloud | Because real infrastructure lives in the cloud |
+
+---
+
+## 🚀 Highlighted Projects
+
+### Resume Pipeline
+
+A multi-service system for generating, optimizing, and delivering resumes.
+
+| Service | Description | Tech |
+|:--------|:------------|:-----|
+| [portfolio-api](https://github.com/d02ev/portfolio-api) | Core API — exposes endpoints for all resume details | ASP.NET Core, C#, JWT Auth, PostgreSQL |
+| [job-notifier](https://github.com/d02ev/job-notifier) | Event-driven Telegram notifier for job status | Supabase Edge Functions, TypeScript, Deno |
+| [tailor](https://github.com/d02ev/tailor) | CLI tool to optimize resumes based on a JD | Python, spaCy, OpenAI, KeyBERT |
+| [latex-compiler](https://github.com/d02ev/latex-compiler) | CI-as-compiler — LaTeX to PDF via GitHub Actions | GitHub Actions, XeLaTeX, Supabase |
+
+### Other Projects
+
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [lunch-ledger](https://github.com/d02ev/lunch-ledger) | Slack bot coordinating team lunch orders and tracking food budget | Python, FastAPI, LangChain, LangGraph |
+| [perch-llm](https://github.com/d02ev/perch-llm) | Predicts if a machine's VRAM can run an open model — without loading it | Python |
+| [vram-probe](https://github.com/d02ev/vram-probe) | Empirical evidence from GPU runs, validating perch-llm formulas | Python |
+
+---
+
+## 💡 Skills
+
+```
+Backend    C# · .NET Core · JavaScript · Express.js · PostgreSQL · MongoDB · Redis
+Infra      AWS (EC2, ECS, SQS, SNS, S3) · Docker · GitHub Actions · Bash · Supabase
+AI/LLM     Ollama · llama.cpp · Open Models · SDD · Agent Skills · Prompt Engineering
+```
+
+---
+
+## 🤝 What I'm Looking For
+
+Fully remote backend roles with an inclination towards Agentic AI systems.
+
+---
+
+## 📬 Contact
+
+[LinkedIn](https://linkedin.com/in/vikramaditya-pratap-singh) · [Website](https://d02ev.netlify.app) · vikramadityapratapsingh98@gmail.com
